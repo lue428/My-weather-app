@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="hourly">Hourly</string>
+    <string name="daily">Daily</string>
+    <string name="details">Details</string>
+    <string name="forecast_detail">Forecast Detail:</string>
+    <string name="windspeed">windspeed:</string>
+    <string name="wind_direction">Wind direction:</string>
+</resources>
